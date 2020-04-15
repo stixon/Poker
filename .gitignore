@@ -11,3 +11,6 @@
 /build
 /captures
 .externalNativeBuild
+/app/src/main/java/com/example/poker/math.class
+/app/src/main/java/com/example/poker/run.bat
+/app/src/main/java/com/example/poker/.com
